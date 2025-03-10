@@ -45,6 +45,7 @@ The Stocker template is built with HTML, CSS, and JavaScript, allowing for easy 
 
 - **HTML:** Update the content within the HTML files to reflect your business information.
 - **CSS:** Modify the `styles.css` file to change the visual appearance, including colors, fonts, and layouts.
+- **BootStrap:** Modify the `styles.css` file to change the visual appearance, including colors, fonts, and layouts.
 - **JavaScript:** Enhance interactivity by editing the `scripts.js` file as needed.
 
 ## Live Demo
