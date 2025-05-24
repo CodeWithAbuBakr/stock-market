@@ -10,7 +10,7 @@ Stocker is a modern and sleek website template designed for stock market-related
 - **Interactive Elements:** Features such as service listings, team introductions, testimonials, and FAQs to engage users.
 - **Contact Form:** Integrated contact form for easy communication with potential clients.
 
-## Getting Started
+## Getting Started 
 
 To utilize the Stocker template:
 
